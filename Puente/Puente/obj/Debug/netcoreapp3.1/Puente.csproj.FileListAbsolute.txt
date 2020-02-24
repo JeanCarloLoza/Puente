@@ -1,0 +1,11 @@
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\netcoreapp3.1\Puente.exe
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\netcoreapp3.1\Puente.deps.json
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\netcoreapp3.1\Puente.runtimeconfig.json
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\netcoreapp3.1\Puente.runtimeconfig.dev.json
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\netcoreapp3.1\Puente.dll
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\netcoreapp3.1\Puente.pdb
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\netcoreapp3.1\Puente.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\netcoreapp3.1\Puente.AssemblyInfoInputs.cache
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\netcoreapp3.1\Puente.AssemblyInfo.cs
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\netcoreapp3.1\Puente.dll
+C:\Trabajo\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\netcoreapp3.1\Puente.pdb
